@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/part-time-tracker/static/css/main.234bdc52.css",
-    "main.js": "/part-time-tracker/static/js/main.d63123fa.js",
+    "main.css": "/part-time-tracker/static/css/main.e72ca359.css",
+    "main.js": "/part-time-tracker/static/js/main.29b4150e.js",
     "static/js/453.596e9ae5.chunk.js": "/part-time-tracker/static/js/453.596e9ae5.chunk.js",
     "index.html": "/part-time-tracker/index.html",
-    "main.234bdc52.css.map": "/part-time-tracker/static/css/main.234bdc52.css.map",
-    "main.d63123fa.js.map": "/part-time-tracker/static/js/main.d63123fa.js.map",
+    "main.e72ca359.css.map": "/part-time-tracker/static/css/main.e72ca359.css.map",
+    "main.29b4150e.js.map": "/part-time-tracker/static/js/main.29b4150e.js.map",
     "453.596e9ae5.chunk.js.map": "/part-time-tracker/static/js/453.596e9ae5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.234bdc52.css",
-    "static/js/main.d63123fa.js"
+    "static/css/main.e72ca359.css",
+    "static/js/main.29b4150e.js"
   ]
 }
